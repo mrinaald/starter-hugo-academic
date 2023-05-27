@@ -167,47 +167,77 @@ sections:
 
 
 ### Online Certifications
-#   - block: accomplishments
-#     id: online-certifications
-#     content:
-#       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-#       # title: 'Accomplish&shy;ments'
-#       title: 'Online Certifications'
-#       subtitle:
-#       # Date format: https://wowchemy.com/docs/customization/#date-format
-#       date_format: Jan 2006
-#       # Accomplishments.
-#       #   Add/remove as many `item` blocks below as you like.
-#       #   `title`, `organization`, and `date_start` are the required parameters.
-#       #   Leave other parameters empty if not required.
-#       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-#       items:
-#         - certificate_url: https://www.coursera.org
-#           date_end: ''
-#           date_start: '2021-01-25'
-#           description: ''
-#           organization: Coursera
-#           organization_url: https://www.coursera.org
-#           title: Neural Networks and Deep Learning
-#           url: ''
-#         - certificate_url: https://www.edx.org
-#           date_end: ''
-#           date_start: '2021-01-01'
-#           description: Formulated informed blockchain models, hypotheses, and use cases.
-#           organization: edX
-#           organization_url: https://www.edx.org
-#           title: Blockchain Fundamentals
-#           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-#         - certificate_url: https://www.datacamp.com
-#           date_end: '2020-12-21'
-#           date_start: '2020-07-01'
-#           description: ''
-#           organization: DataCamp
-#           organization_url: https://www.datacamp.com
-#           title: 'Object-Oriented Programming in R'
-#           url: ''
-#     design:
-#       columns: '2'
+  - block: accomplishments
+    id: online-certifications
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      # title: 'Accomplish&shy;ments'
+      title: 'Online Certifications'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        # GAN Specialization
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/X3Y95UH88838
+          date_end: '2023-05-20'
+          date_start: '2023-04-07'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Generative Adversarial Networks (GANs) Specialization
+          url: 'https://www.coursera.org/specializations/generative-adversarial-networks-gans'
+        # MLOps Specialization
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/ZDZR8C892T9J
+          date_end: '2023-03-25'
+          date_start: '2022-12-12'
+          description: "" #Formulated informed blockchain models, hypotheses, and use cases.
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Machine Learning Engineering for Production (MLOps) Specialization
+          url: https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops
+        # Robotics Specialization
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/MDLXE9VZP8L5
+          date_end: '2022-09-24'
+          date_start: '2021-08-27'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Robotics Specialization
+          url: 'https://www.coursera.org/specializations/robotics'
+        # CNN
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/NKQNB8H9LQG7
+          date_end: '2022-10-30'
+          date_start: '2022-10-10'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Convolutional Neural Networks
+          url: 'https://www.coursera.org/learn/convolutional-neural-networks'
+        # Hyper-parameter tuning
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/487MU4MY73PL
+          date_end: '2020-05-23'
+          date_start: '2020-05-08'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization'
+          url: 'https://www.coursera.org/learn/deep-neural-network'
+        # Sequence Models
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/24L8L2MT2FGB
+          date_end: '2019-12-02'
+          date_start: '2019-11-15'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Sequence Models
+          url: 'https://www.coursera.org/learn/nlp-sequence-models'
+    design:
+      columns: '2'
 
 
 ### Topic Cloud
