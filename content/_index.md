@@ -99,22 +99,22 @@ sections:
       columns: '2'
 
 
-### Publications
-#   - block: collection
-#     id: publications
-#     content:
-#       title: Recent Publications
-#       # text: |-
-#       #   {{% callout note %}}
-#       #   Quickly discover relevant content by [filtering publications](./publication/).
-#       #   {{% /callout %}}
-#       filters:
-#         folders:
-#           - publication
-#         exclude_featured: false
-#     design:
-#       columns: '2'
-#       view: citation
+## Publications
+  - block: collection
+    id: research
+    content:
+      title: Research Work
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - publication   # For some reason, the other directory names are not working properly. Hence kept the dir name as "publication" only
+        exclude_featured: false
+    design:
+      columns: '2'
+      view: citation
 
 
 ### Featured Publications
