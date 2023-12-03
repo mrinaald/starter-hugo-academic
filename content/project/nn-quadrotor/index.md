@@ -1,6 +1,6 @@
 ---
 title: Neural Network Based Modelling and Control of Quadrotor
-summary: Developed Neural Network models to learn the physical model of Quadrotor and synthesize its contoller
+summary: Developed Neural Network models to learn the physical model of Quadrotor and synthesize its controller
 tags:
   - Machine Learning
   - Robotics
