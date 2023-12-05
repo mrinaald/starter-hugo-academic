@@ -72,7 +72,8 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    # link: uploads/resume.pdf
+    link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -90,7 +91,7 @@ I am working as a Lead Engineer at Samsung R&D Institute India - Bangalore (SRI-
 Throughout my tenure at SRI-B, I have gained extensive experience across diverse projects, encompassing domains such as Machine Learning, Federated Learning, and Android app development. The majority of my projects lie in the domain of Federated Learning, where I have specialized in training machine learning models within the limited computational capacity of users' edge devices. By adopting this approach, we have achieved significant advancements in preserving user privacy as their data remains securely on their devices, thus never leaving their possession. Notably, my research contributions within these projects have yielded patents and publications, which are detailed in the <a href="/#research">"Research Work"</a> section.
 {style="text-align: justify;"}
 
-Before my involvement with SRI-B, I gained valuable experience through an internship at Hike Pvt. Ltd., located in New Delhi, during the summer of 2017. Within this role, I focused on developing an Image Classifier capable of categorizing images into predefined classes. Furthermore, I actively contributed to the Humanoid Project at the Robotics Club of IIT Kanpur, primarily focusing on its Computer Vision modules. In addition, I have undertaken numerous projects in diverse machine learning domains, including One-Shot Learning, Real-time Sentiment Analysis, and Detecting Semantically Similar Questions, among others. For a comprehensive overview of my projects, please refer to the <a href="/#projects">"Projects"</a> section on the page.
+Before my involvement with SRI-B, I gained valuable experience through an internship at Hike Pvt. Ltd., located in New Delhi, during the summer of 2017. Within this role, I focused on developing an Image Classifier capable of categorizing images into predefined classes. Apart from that, I actively contributed to the Humanoid Project at the Robotics Club of IIT Kanpur, primarily focusing on its Computer Vision modules. In addition, I have undertaken numerous projects in diverse machine learning domains, including One-Shot Learning, Real-time Sentiment Analysis, and Detecting Semantically Similar Questions, among others. For a comprehensive overview of my projects, please refer to the <a href="/#projects">"Projects"</a> section on the page.
 {style="text-align: justify;"}
 
 <!-- During my years at SRI-B, I have worked on a wide variety of projects spanning fields like Machine Learning, Federated Learning, and Android App Development. Most of my projects are in the field of Federated learning, where the machine learning models are trained in the computationally constrained environment of user's edge devices. Such models have helped in improving the privacy of the users as their data is used to train models on the device and hence never leaves the device. My research work in these projects has also helped me in securing some patents and publications as well, and the list can be found in the <a href="/#research">Research Work</a> section. -->

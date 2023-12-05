@@ -28,7 +28,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Lead Engineer
+        - title: Lead Engineer, Machine Learning
           company: Samsung R&D Institute India - Bangalore (SRI-B)
           company_url: ''
           company_logo: '' # org-x # https://images.squarespace-cdn.com/content/v1/619d2006b23f9f7f9f282ea8/2f9744f0-cfc9-435a-82e0-781528a48028/hike_logo.png
@@ -36,10 +36,10 @@ sections:
           date_start: '2023-03-01'
           date_end: ''
           description: |2-
-              * Working on identifying bottlenecks and enhancing the Android rendering by adding improvements in the Android framework
-              * Developing an in‐house Android profiling tool to benchmark Android rendering uniformly across various Samsung apps and devices
+              * Working on identifying bottlenecks and enhancing the Android graphics rendering pipeline by adding improvements in the Android framework
+              * Developing an in-house Android profiling tool to benchmark Android rendering uniformly across various Samsung apps and devices
 
-        - title: Senior Software Engineer
+        - title: Senior Software Engineer, Machine Learning
           company: Samsung R&D Institute India - Bangalore (SRI-B)
           company_url: ''
           company_logo: '' # org-x # https://images.squarespace-cdn.com/content/v1/619d2006b23f9f7f9f282ea8/2f9744f0-cfc9-435a-82e0-781528a48028/hike_logo.png
@@ -51,9 +51,9 @@ sections:
               * Developed an end‐to‐end Android application to demonstrate the effectiveness of the boredom ML model to the stakeholders
               * Worked on developing a deep neural network (DNN) model that uses phone usage data to predict gender and demographic age
               * Developed the above model using TensorFlow Federated and Flower libraries to train it in a Federated Learning (FL) environment
-              * Developed a differential privacy‐based ML solution for the problem of destination identification and semantic location tagging
+              * Developed a differential privacy-based ML solution for the problem of Privacy Protected Semantic Location Tagging
 
-        - title: Software Engineer
+        - title: Software Engineer, Machine Learning
           company: Samsung R&D Institute India - Bangalore (SRI-B)
           company_url: ''
           company_logo: '' # org-x # https://images.squarespace-cdn.com/content/v1/619d2006b23f9f7f9f282ea8/2f9744f0-cfc9-435a-82e0-781528a48028/hike_logo.png
@@ -65,10 +65,10 @@ sections:
               * Developed gesture‐based UI features such as Zoom, Pan, and Rotation for the point‐cloud visualization module in the Android app
               * Worked on developing an on‐device privacy‐preserving DNN model‐based solution for the problem of Next App Recommendation
               * DNN model was designed under strict memory constraints to minimize network bandwidth costs during various FL execution steps
-              * Developed and trained the DNN model in Java using the Dl4j library so that it can be trained and used on‐device on Android
+              * Developed and trained the DNN model in Java using the DL4J library so that it can be trained and used on‐device on Android
               * Developed an Android User Trial (UT) application that supported FL, model training, and inference on‐device for the DNN model
 
-        - title: Undergraduate Machine Learning Developer Internship
+        - title: Undergraduate Software Developer Internship
           company: Samsung R&D Institute India - Bangalore (SRI-B)
           company_url: ''
           company_logo: '' # org-x
@@ -81,7 +81,7 @@ sections:
               * Developed an ML classification model to predict which cell tower a user is most likely connected to at any time of the day
               * Top‐1 & Top‐3 prediction accuracies for the final model were 85‐90% and 90‐95% respectively on the evaluation dataset
 
-        - title: Undergraduate Machine Learning Developer Internship
+        - title: Undergraduate Software Developer Internship
           company: Hike Private Limited
           company_url: ''
           company_logo: '' # org-x # https://images.squarespace-cdn.com/content/v1/619d2006b23f9f7f9f282ea8/2f9744f0-cfc9-435a-82e0-781528a48028/hike_logo.png
@@ -183,6 +183,15 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         # GAN Specialization
+        - certificate_url:     https://www.coursera.org/account/accomplishments/specialization/certificate/5K6ZPFHS438E
+          date_end: '2023-12-02'
+          date_start: '2023-07-31'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Reinforcement Learning Specialization
+          url: 'https://www.coursera.org/specializations/reinforcement-learning'
+        # GAN Specialization
         - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/X3Y95UH88838
           date_end: '2023-05-20'
           date_start: '2023-04-07'
@@ -257,7 +266,8 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: azadmrinaal[at]gmail[dot]com
+      # email: azadmrinaal[at]gmail[dot]com
+      email: mrinaal[dot]dogra19[at]gmail[dot]com
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
