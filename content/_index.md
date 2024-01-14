@@ -182,7 +182,16 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        # GAN Specialization
+        # GenAI with LLMs
+        - certificate_url:     https://www.coursera.org/account/accomplishments/certificate/TB2MNJ6E9LTX
+          date_end: '2024-01-14'
+          date_start: '2023-12-21'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Generative AI with Large Language Models
+          url: 'https://www.coursera.org/learn/generative-ai-with-llms'
+        # RL Specialization
         - certificate_url:     https://www.coursera.org/account/accomplishments/specialization/certificate/5K6ZPFHS438E
           date_end: '2023-12-02'
           date_start: '2023-07-31'
