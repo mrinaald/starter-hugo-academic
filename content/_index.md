@@ -34,10 +34,12 @@ sections:
           company_logo: '' # org-x # https://images.squarespace-cdn.com/content/v1/619d2006b23f9f7f9f282ea8/2f9744f0-cfc9-435a-82e0-781528a48028/hike_logo.png
           location: India
           date_start: '2023-03-01'
-          date_end: ''
+          date_end: '2024-08-23'
           description: |2-
-              * Working on identifying bottlenecks and enhancing the Android graphics rendering pipeline by adding improvements in the Android framework
-              * Developing an in-house Android profiling tool to benchmark Android rendering uniformly across various Samsung apps and devices
+              * Worked on identifying bottlenecks (Scroll janks) and enhancing Android rendering by adding improvements in the Android framework
+              * Pioneered and contributed to developing an in-house Android profiling tool to benchmark rendering uniformly across devices
+              * Led and supervised 4 different edge-based personalization solutions to derive insights and enhance user experience using LLMs
+              * Coordinated with a team of engineers and quality testers to improve the dataset quality for one of the said personalization solutions
 
         - title: Senior Software Engineer, Machine Learning
           company: Samsung R&D Institute India - Bangalore (SRI-B)
@@ -47,11 +49,11 @@ sections:
           date_start: '2021-03-01'
           date_end: '2023-02-28'
           description: |2-
-              * Developed on‐device machine learning (ML) model that uses phone usage data to detect boredom while a user is using their phone
-              * Developed an end‐to‐end Android application to demonstrate the effectiveness of the boredom ML model to the stakeholders
+              * Developed machine learning (ML) model on edge that uses phone usage data to detect boredom while a user is using their phone
+              * Developed an end-to-end Android application to demonstrate the effectiveness of the boredom ML model to the stakeholders
               * Worked on developing a deep neural network (DNN) model that uses phone usage data to predict gender and demographic age
               * Developed the above model using TensorFlow Federated and Flower libraries to train it in a Federated Learning (FL) environment
-              * Developed a differential privacy-based ML solution for the problem of Privacy Protected Semantic Location Tagging
+              * Developed a differential privacy-based ML solution for destination identification and semantic location tagging problem
 
         - title: Software Engineer, Machine Learning
           company: Samsung R&D Institute India - Bangalore (SRI-B)
@@ -61,12 +63,12 @@ sections:
           date_start: '2019-06-20'
           date_end: '2021-02-28'
           description: |2-
-              * Developed Android application for visualizing depth maps & 3D Point‐cloud from Time‐of‐Flight (ToF) camera feed in real‐time
-              * Developed gesture‐based UI features such as Zoom, Pan, and Rotation for the point‐cloud visualization module in the Android app
-              * Worked on developing an on‐device privacy‐preserving DNN model‐based solution for the problem of Next App Recommendation
+              * Developed Android app for visualizing depth maps & 3D Point-cloud from Time-of-Flight (ToF) camera feed in real-time
+              * Developed gesture-based UI features such as Zoom, Pan, and Rotation for the point-cloud visualization module in the Android app
+              * Developed a privacy-preserving DNN model-based solution for edge devices for the Next App Recommendation problem
               * DNN model was designed under strict memory constraints to minimize network bandwidth costs during various FL execution steps
-              * Developed and trained the DNN model in Java using the DL4J library so that it can be trained and used on‐device on Android
-              * Developed an Android User Trial (UT) application that supported FL, model training, and inference on‐device for the DNN model
+              * Developed and trained the DNN model in Java using the Dl4j library so that it can be trained and used in Android on edge devices
+              * Developed an Android User Trial (UT) application that supported FL, model training, and inference on edge devices
 
         - title: Undergraduate Software Developer Internship
           company: Samsung R&D Institute India - Bangalore (SRI-B)
@@ -275,8 +277,7 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      # email: azadmrinaal[at]gmail[dot]com
-      email: mrinaal[dot]dogra19[at]gmail[dot]com
+      email: mdogra[at]ucsd[dot]edu
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:

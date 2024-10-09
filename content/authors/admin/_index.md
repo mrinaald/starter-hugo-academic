@@ -15,15 +15,15 @@ superuser: true
 
 # Role/position/tagline
 # role: Professor of Artificial Intelligence
-role: Lead Engineer
+role: MS in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Samsung R&D Institute India - Bangalore (SRI-B)
-    url: https://research.samsung.com/sri-b
+  - name: UC San Diego
+    url: https://ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, human-machine interaction and robotics
+bio: My research interests include artificial intelligence, human-machine interaction, and robotics
 
 # Interests to show in About widget
 interests:
@@ -37,9 +37,9 @@ education:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
     #   year: 2012
-    # - course: MEng in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2009
+    - course: MS in Computer Science
+      institution: University of California San Diego
+      year: ''
     - course: B.Tech in Computer Science & Engineering
       institution: Indian Institute of Technology Kanpur (IITK)
       year: 2019
@@ -85,7 +85,13 @@ highlight_name: true
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"} -->
 
-I am working as a Lead Engineer at Samsung R&D Institute India - Bangalore (SRI-B) specializing in the field of Machine Learning and Artificial Intelligence. I joined SRI-B shortly after my Bachelor's (B.Tech) in Computer Science and Engineering from IIT Kanpur.
+I am currently pursuing my Master of Science in Computer Science degree at UC San Diego.
+{style="text-align: justify;"}
+
+My broad fields of interest include Artificial Intelligence, Machine Learning, Human-Machine Interaction, and Robotics. I have also developed a newfound interest in Federated Learning and Large Language Models (LLMs) through my projects at Samsung R&D Institute India - Bangalore (SRI-B), and I am currently exploring these areas.
+{style="text-align: justify;"}
+
+Before starting my program at UCSD, I was working as a Lead Engineer at  SRI-B specializing in the fields of Machine Learning, Federated Learning, and Edge computing. I joined SRI-B shortly after earning my Bachelor's (B.Tech) in Computer Science and Engineering (CSE) from IIT Kanpur.
 {style="text-align: justify;"}
 
 Throughout my tenure at SRI-B, I have gained extensive experience across diverse projects, encompassing domains such as Machine Learning, Federated Learning, and Android app development. The majority of my projects lie in the domain of Federated Learning, where I have specialized in training machine learning models within the limited computational capacity of users' edge devices. By adopting this approach, we have achieved significant advancements in preserving user privacy as their data remains securely on their devices, thus never leaving their possession. Notably, my research contributions within these projects have yielded patents and publications, which are detailed in the <a href="/#research">"Research Work"</a> section.
