@@ -9,7 +9,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: ''
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
@@ -36,10 +36,14 @@ sections:
           date_start: '2023-03-01'
           date_end: '2024-08-23'
           description: |2-
-              * Worked on identifying bottlenecks (Scroll janks) and enhancing Android rendering by adding improvements in the Android framework
-              * Pioneered and contributed to developing an in-house Android profiling tool to benchmark rendering uniformly across devices
-              * Led and supervised 4 different edge-based personalization solutions to derive insights and enhance user experience using LLMs
-              * Coordinated with a team of engineers and quality testers to improve the dataset quality for one of the said personalization solutions
+              * Led the development of an automated Python-based Android profiling tool to benchmark rendering uniformly across devices, identifying bottlenecks (scroll janks) and enhancing rendering performance through improvements in the Android framework source.
+              * Led the development of four edge-based personalization LLM solutions, deriving actionable insights to enhance user experience.
+              * Fine-tuned the FLAN-T5 LLM model for our specific use-case, optimizing performance & achieving a ∼92% evaluation score.
+              * Collaborated with engineers and testers to improve the quality of ∼15k samples for one of the said personalization solution.
+      #        * Worked on identifying bottlenecks (Scroll janks) and enhancing Android rendering by adding improvements in the Android framework
+      #        * Pioneered and contributed to developing an in-house Android profiling tool to benchmark rendering uniformly across devices
+      #        * Led and supervised 4 different edge-based personalization solutions to derive insights and enhance user experience using LLMs
+      #        * Coordinated with a team of engineers and quality testers to improve the dataset quality for one of the said personalization solutions
 
         - title: Senior Software Engineer, Machine Learning
           company: Samsung R&D Institute India - Bangalore (SRI-B)
@@ -49,11 +53,13 @@ sections:
           date_start: '2021-03-01'
           date_end: '2023-02-28'
           description: |2-
-              * Developed machine learning (ML) model on edge that uses phone usage data to detect boredom while a user is using their phone
-              * Developed an end-to-end Android application to demonstrate the effectiveness of the boredom ML model to the stakeholders
-              * Worked on developing a deep neural network (DNN) model that uses phone usage data to predict gender and demographic age
-              * Developed the above model using TensorFlow Federated and Flower libraries to train it in a Federated Learning (FL) environment
-              * Developed a differential privacy-based ML solution for destination identification and semantic location tagging problem
+              * Designed an edge ML solution to analyze phone usage data and detect boredom with ∼80% accuracy, enhancing user experience. Built an Android app for real-time inference with under 50ms latency, showcasing the model’s effectiveness.
+              * Pioneered a Federated Learning (FL)-based solution to predict gender and demographic age, enhancing privacy for ∼10k users. Explored innovative distributed learning techniques and tested diverse FL algorithms across 20+ input and model configurations, laying the groundwork for future privacy-preserving AI advancements.
+          #    * Developed machine learning (ML) model on edge that uses phone usage data to detect boredom while a user is using their phone
+          #    * Developed an end-to-end Android application to demonstrate the effectiveness of the boredom ML model to the stakeholders
+          #    * Worked on developing a deep neural network (DNN) model that uses phone usage data to predict gender and demographic age
+          #    * Developed the above model using TensorFlow Federated and Flower libraries to train it in a Federated Learning (FL) environment
+          #    * Developed a differential privacy-based ML solution for destination identification and semantic location tagging problem
 
         - title: Software Engineer, Machine Learning
           company: Samsung R&D Institute India - Bangalore (SRI-B)
@@ -63,12 +69,14 @@ sections:
           date_start: '2019-06-20'
           date_end: '2021-02-28'
           description: |2-
-              * Developed Android app for visualizing depth maps & 3D Point-cloud from Time-of-Flight (ToF) camera feed in real-time
-              * Developed gesture-based UI features such as Zoom, Pan, and Rotation for the point-cloud visualization module in the Android app
-              * Developed a privacy-preserving DNN model-based solution for edge devices for the Next App Recommendation problem
-              * DNN model was designed under strict memory constraints to minimize network bandwidth costs during various FL execution steps
-              * Developed and trained the DNN model in Java using the Dl4j library so that it can be trained and used in Android on edge devices
-              * Developed an Android User Trial (UT) application that supported FL, model training, and inference on edge devices
+              * Developed the Robot Camera Visualization Android app for real-time visualization of depth maps and 3D point-clouds from a ToF camera at 30 FPS, with gesture-based UI features for enhanced user interaction, tailored to stakeholder requirements.
+              * Engineered a privacy-preserving edge ML solution for Next App Recommendation, published in IEEE ICSC 2022, by designing a memory-efficient model (99% size reduction) to minimize FL bandwidth costs. Trained and deployed the model in Java using DL4J, integrating it on Android edge devices with a User Trial (UT) app for training and inference across 500+ devices.
+          #    * Developed Android app for visualizing depth maps & 3D Point-cloud from Time-of-Flight (ToF) camera feed in real-time
+          #    * Developed gesture-based UI features such as Zoom, Pan, and Rotation for the point-cloud visualization module in the Android app
+          #    * Developed a privacy-preserving DNN model-based solution for edge devices for the Next App Recommendation problem
+          #    * DNN model was designed under strict memory constraints to minimize network bandwidth costs during various FL execution steps
+          #    * Developed and trained the DNN model in Java using the Dl4j library so that it can be trained and used in Android on edge devices
+          #    * Developed an Android User Trial (UT) application that supported FL, model training, and inference on edge devices
 
         - title: Undergraduate Software Developer Internship
           company: Samsung R&D Institute India - Bangalore (SRI-B)
@@ -94,9 +102,10 @@ sections:
           # * Trained the CNN models using Google ML-Engine APIs
           # * Developed a Server-Client support using Tensorflow Serving
           description: |2-
-              * Implemented Convolutional Neural Network (CNN) models using Python and TensorFlow for an image classification problem
-              * Used Google ML‐Engine APIs to train various CNN models on the Google Cloud for accelerated experimentations and training
-              * Developed Server‐Client support using TensorFlow Serving for exposing REST APIs to generate predictions from the trained models
+              * Implemented CNN models in Python using TensorFlow for image classification, leveraging Google ML Engine APIs to accelerate training on Google Cloud. Deployed the model with TensorFlow Serving to expose REST APIs for generating model predictions.
+          #    * Implemented Convolutional Neural Network (CNN) models using Python and TensorFlow for an image classification problem
+          #    * Used Google ML‐Engine APIs to train various CNN models on the Google Cloud for accelerated experimentations and training
+          #    * Developed Server‐Client support using TensorFlow Serving for exposing REST APIs to generate predictions from the trained models
     design:
       columns: '2'
 
@@ -277,7 +286,7 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: mdogra[at]ucsd[dot]edu
+      email: mdogra [at] ucsd [dot] edu
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
