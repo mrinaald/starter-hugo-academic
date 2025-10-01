@@ -28,11 +28,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Machine Learning Engineer Internship
+          company: Kognitos Inc.
+          company_url: 'https://www.kognitos.com/'
+          company_logo: '' # org-x # https://images.squarespace-cdn.com/content/v1/619d2006b23f9f7f9f282ea8/2f9744f0-cfc9-435a-82e0-781528a48028/hike_logo.png
+          location: San Jose, CA
+          date_start: '2025-06-18'
+          date_end: '2025-09-19'
+          description: |2-
+              * Researched and prototyped an agentic AI pipeline for SOP generation from desktop recordings, integrating key-frame extraction (CV-based), OCR, and multi-agent reasoning; benchmarked GPT-4o, GPT-4.1, GPT-5, and Gemini-2.5.
+              * Built and deployed a lightweight multimodal web app (video, images, documents) for automated SOP and flow-diagram generation, containerized with Docker and deployed on AWS EC2; enabled internal testing across diverse inputs.
+              * Developed and productionized a PII masking solution using GLiNER model (supports 40+ entity types), evolving from a REST API on EC2 (PoC) to a scalable AWS Lambda service with Docker packaging and role-based access control.
         - title: Lead Engineer, Machine Learning
           company: Samsung R&D Institute India - Bangalore (SRI-B)
           company_url: ''
           company_logo: '' # org-x # https://images.squarespace-cdn.com/content/v1/619d2006b23f9f7f9f282ea8/2f9744f0-cfc9-435a-82e0-781528a48028/hike_logo.png
-          location: India
+          location: Bengaluru, India
           date_start: '2023-03-01'
           date_end: '2024-08-23'
           description: |2-
@@ -49,7 +60,7 @@ sections:
           company: Samsung R&D Institute India - Bangalore (SRI-B)
           company_url: ''
           company_logo: '' # org-x # https://images.squarespace-cdn.com/content/v1/619d2006b23f9f7f9f282ea8/2f9744f0-cfc9-435a-82e0-781528a48028/hike_logo.png
-          location: India
+          location: Bengaluru, India
           date_start: '2021-03-01'
           date_end: '2023-02-28'
           description: |2-
@@ -65,7 +76,7 @@ sections:
           company: Samsung R&D Institute India - Bangalore (SRI-B)
           company_url: ''
           company_logo: '' # org-x # https://images.squarespace-cdn.com/content/v1/619d2006b23f9f7f9f282ea8/2f9744f0-cfc9-435a-82e0-781528a48028/hike_logo.png
-          location: India
+          location: Bengaluru, India
           date_start: '2019-06-20'
           date_end: '2021-02-28'
           description: |2-
@@ -82,7 +93,7 @@ sections:
           company: Samsung R&D Institute India - Bangalore (SRI-B)
           company_url: ''
           company_logo: '' # org-x
-          location: India
+          location: Bengaluru, India
           date_start: '2018-05-13'
           date_end: '2018-07-19'
           description: |2-
@@ -95,7 +106,7 @@ sections:
           company: Hike Private Limited
           company_url: ''
           company_logo: '' # org-x # https://images.squarespace-cdn.com/content/v1/619d2006b23f9f7f9f282ea8/2f9744f0-cfc9-435a-82e0-781528a48028/hike_logo.png
-          location: India
+          location: New Delhi, India
           date_start: '2017-05-13'
           date_end: '2017-07-19'
           # * Developed Image Classifier using Convolutional Neural Network (CNN) to classify images into pre-defined categories
@@ -162,6 +173,8 @@ sections:
           tag: '*'
         - name: ML
           tag: Machine Learning
+        - name: LLMs
+          tag: Large Language Models
         - name: Robotics
           tag: Robotics
         - name: Parallel Computing
