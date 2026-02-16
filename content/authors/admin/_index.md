@@ -88,15 +88,46 @@ highlight_name: true
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"} -->
 
+
+
+"<i>Building intelligent AI systems, from on-device ML to cloud-native autonomous agents.</i>"
+{style="text-align: justify;font-size:90%;"}
+
+I am a Machine Learning Engineer with over 5 years of industry experience, currently pursuing my M.S. in Computer Science at UC San Diego. My passion lies in building intelligent systems that can learn, reason, and collaborate with humans. My current research and engineering interests focus on Agentic AI, Large Language Models (LLMs), and On-Device ML.
+{style="text-align: justify;font-size:90%;"}
+
+<!-- Before coming to UCSD, I spent four years at Samsung R&D Institute. As part of the advanced R&D team, I led the end-to-end engineering of edge-based ML proofs-of-concept and privacy-preserving Federated Learning architectures. My core focus was bridging the gap between theoretical research and mobile feasibility, proving that complex behavioral models and LLMs could run efficiently on resource-constrained hardware, which resulted in a US Patent. -->
+Before coming to UCSD, I spent five years at Samsung R&D Institute. As part of the advanced R&D team, I led the end-to-end engineering of edge-based ML solutions and privacy-preserving Federated Learning architectures. My core focus was bridging the gap between theoretical research and mobile feasibility, proving that complex behavioral models and LLMs could run efficiently on resource-constrained hardware.
+{style="text-align: justify;font-size:90%;"}
+
+<!-- Most recently, during my internship at Kognitos, I architected a greenfield agentic AI pipeline to automate complex workflow generation from desktop recordings, deploying it as a full-stack, containerized application for internal testing. -->
+Most recently, during my internship at Kognitos, I architected a greenfield agentic AI pipeline to automate complex workflow generation from desktop recordings, deploying it as a full-stack, containerized application.
+{style="text-align: justify;font-size:90%;"}
+
+Whether I am optimizing LLMs for mobile inference or building multi-modal reasoning agents, I am driven by the challenge of making AI useful, trustworthy, and grounded in real-world applications.
+{style="text-align: justify;font-size:90%;"}
+
+Feel free to explore my <a href="/#experience">Experience</a>, <a href="/#projects">Projects</a>, and <a href="/#research">Research</a> to see what I have been building.
+{style="text-align: justify;font-size:90%;"}
+
+
+
+
+
+
+
+
+
+
 <!-- I am currently pursuing my Master of Science in Computer Science degree at UC San Diego (UCSD).
 {style="text-align: justify;font-size:90%;"} -->
 
 <!-- My interests span a wide range of fields in Artificial Intelligence and Machine Learning, including large language models, reinforcement learning, and human-machine interaction. Recently, I've developed a keen focus on emerging technologies such as Large Language Models (LLMs) and Federated Learning, areas that I've explored through various projects at Samsung R&D Institute India - Bangalore (SRI-B). Currently, I am deepening my expertise in these domains through a combination of research, coursework, and hands-on projects at UC San Diego. -->
 
-"<i>AI may not dream yet, but I'm definitely dreaming up some pretty exciting projects in the field!</i>"
-{style="text-align: justify;font-size:90%;"}
+<!-- "<i>AI may not dream yet, but I'm definitely dreaming up some pretty exciting projects in the field!</i>"
+{style="text-align: justify;font-size:90%;"} -->
 
-I'm a graduate student at UC San Diego, passionate about building intelligent systems that can learn, reason, and collaborate with humans. My current interests include LLM reasoning, AI agents, and LLM systems, which I explore through research, coursework, and hands-on projects.
+<!-- I'm a graduate student at UC San Diego, passionate about building intelligent systems that can learn, reason, and collaborate with humans. My current interests include LLM reasoning, AI agents, and LLM systems, which I explore through research, coursework, and hands-on projects.
 {style="text-align: justify;font-size:90%;"}
 
 In my recent internship at Kognitos, I developed an agentic AI pipeline for SOP generation from desktop recordings, built a web app supporting multimodal inputs, and deployed a scalable PII masking service using AWS Lambda.
@@ -109,7 +140,7 @@ From on-device intelligence to cloud-native agent systems, I'm excited about bui
 {style="text-align: justify;font-size:90%;"}
 
 Feel free to explore my <a href="/#projects">Projects</a> and <a href="/#research">Research</a> to learn more.
-{style="text-align: justify;font-size:90%;"}
+{style="text-align: justify;font-size:90%;"} -->
 
 <!-- That spark of imagination drives my passion for Artificial Intelligence and Machine Learning, where I explore everything from large language models (LLMs) and Generative AI (GenAI) to reinforcement learning and human-machine interaction. Lately, I've been diving deep into cutting-edge areas like LLM Reasoning, Agentic AI, and Embodied AI. I'm actively engaging with these topics through research, coursework, and hands-on projects at UC San Diego. It's an exciting time to be in AI, and I'm thrilled to be exploring these new areas! -->
 <!-- {style="text-align: justify;font-size:90%;"} -->
